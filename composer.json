@@ -7,6 +7,11 @@
             "email": "473139299@qq.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "dateTool\\": "src/"
+        }
+    },
     "require": {},
     "license": "MIT"
 }
