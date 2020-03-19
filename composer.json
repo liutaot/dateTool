@@ -1,7 +1,6 @@
 {
     "name": "date-tool/date-tool",
     "description": "php date tool",
-    "minimum-stability": "stable",
     "authors": [
         {
             "name": "liutao",
