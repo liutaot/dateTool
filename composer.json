@@ -1,11 +1,13 @@
 {
     "name": "date-tool/date-tool",
     "description": "php date tool",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "liutao",
             "email": "473139299@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "license": "MIT"
 }
