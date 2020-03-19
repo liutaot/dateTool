@@ -1,0 +1,11 @@
+{
+    "name": "date-tool/date-tool",
+    "description": "php date tool",
+    "authors": [
+        {
+            "name": "liutao",
+            "email": "473139299@qq.com"
+        }
+    ],
+    "require": {}
+}
